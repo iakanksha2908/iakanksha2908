@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently pursuing Computer Software Engineering from Northeastern University, my courses include Object Oriented Analysis and Design, Program Structure and Algorithms, Advanced Big Data Applications and indexing techniques, Network Structures and Cloud Computing and Enterprise Software Design
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 You can email at akankshapwar25@gmail.com
+- 📫 You can email at pawar.ak@northeastern.edu
 
 
 <!---
