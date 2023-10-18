@@ -14,10 +14,10 @@ Hi there! I'm Akanksha Pawar 👋
     
 ## 💼 Co-op Experience
 - **Abbott-Heart Failure** (Co-op Position)
-  - Spearheaded design and development of the treatment plan database, ensuring streamlined data management.
-  - Engineered a POC integrating 5 CRUD APIs with the EasyRules library for healthcare monitoring automation.
-  - Developed RESTful APIs for Clinician, Technician, and Patient profiles, seamlessly integrated with a PostgreSQL database, resulting in improved data processing speed and API response time.
-  - Conducted in-depth analysis of extensive MediSpan data for DynamicRX.
+  - Led software development for a critical project focused on data management.
+  - Designed and implemented a proof of concept (POC) for healthcare monitoring using APIs.
+  - Developed RESTful APIs to enhance data processing and accessibility.
+  - Conducted extensive data analysis to support project requirements.
     
 ## 🚀 Looking to Collaborate
 I'm enthusiastic about web development and looking to collaborate on exciting projects. If you have a project idea or need an extra hand for your web development initiatives, feel free to reach out to me!
