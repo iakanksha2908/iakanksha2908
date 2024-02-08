@@ -11,6 +11,7 @@ Hi there! I'm Akanksha Pawar 👋
   - Enterprise Software Design
   - Design Patterns
   - Data Management and Database Design
+  - Web Design and User Interface
     
 ## 💼 Co-op Experience
 - **Abbott-Heart Failure** (Co-op Position)
